@@ -24,6 +24,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - CloudFlare - https://www.cloudflare.com/
 - ClouDNS	- https://cloudns.net/
 - Let's Encrypt - https://letsencrypt.org/
+- Cloudimage (Image CDN) - https://cloudimage.io/
 
 ## Site Performance Tools:	
 - Pingdom http://tools.pingdom.com/fpt	pingdom.com - Website monitor
